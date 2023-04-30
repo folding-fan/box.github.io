@@ -1,0 +1,12 @@
+.movable-bd {
+    /* 层级定位 */
+    z-index: 5;
+    position: absolute;        
+    top: 70%;
+    right: 0;
+    /* 尺寸 */
+    height: 64px;
+    width: 64px;
+    border-radius: 32px;
+    overflow: hidden;            
+}
